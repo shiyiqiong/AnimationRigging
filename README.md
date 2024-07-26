@@ -27,3 +27,5 @@ Animation Rigging（动画绑定约束）使用：
 
 - 在程序中通过程序代码操作控制器，从而控制蒙皮动画的骨骼；
 - 最终通过权重，是程序操作的动画和蒙皮动画混合播放。
+***
+参考资料：https://www.bilibili.com/read/cv7419261/?from=search&spm_id_from=333.337.0.0
